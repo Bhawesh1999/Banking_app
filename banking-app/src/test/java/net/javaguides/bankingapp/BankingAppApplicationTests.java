@@ -9,6 +9,9 @@ class BankingAppApplicationTests {
 	@Test
 	void contextLoads() {
 		print("test")
+			print("ueser_branch")
+
+
 	}
 
 }
