@@ -10,6 +10,7 @@ class BankingAppApplicationTests {
 	void contextLoads() {
 		print("test")
 			print("ueser_branch")
+
 	}
 
 }
