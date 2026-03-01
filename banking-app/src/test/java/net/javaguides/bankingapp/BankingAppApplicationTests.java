@@ -8,6 +8,7 @@ class BankingAppApplicationTests {
 
 	@Test
 	void contextLoads() {
+		print("test")
 	}
 
 }
