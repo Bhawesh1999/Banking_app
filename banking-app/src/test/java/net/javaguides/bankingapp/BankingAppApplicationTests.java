@@ -10,6 +10,7 @@ class BankingAppApplicationTests {
 	void contextLoads() {
 		print("test")
 			print("ueser_branch")
+			print("user_branch_2
 			print("user_branch_3")
 			print("user_branch_4")
 			print("user_branch_6")
