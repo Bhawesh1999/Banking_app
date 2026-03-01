@@ -9,6 +9,7 @@ class BankingAppApplicationTests {
 	@Test
 	void contextLoads() {
 		print("test")
+			print("ueser_branch_1")
 			print("ueser_branch")
 			print("user_branch_2
 			print("user_branch_3")
