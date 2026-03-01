@@ -14,6 +14,7 @@ class BankingAppApplicationTests {
 			print("user_branch_3")
 			print("user_branch_4")
 			print("user_branch_6")
+			print("user_branch_7")
 
 
 	}
